@@ -27,7 +27,7 @@ export const About = () => {
                       Equipped with web development skills
                       acquired during my on-the-job training at Leentech Network
                       Solution. <br />
-                      Throughout the training, I delved into front-end
+                      Throughout the training, I delivered into front-end
                       work using Angular and the Bootstrap CSS framework. On the
                       back end, I tackled Laravel, became proficient in database
                       handling using Eloquent, explored creating RESTful
